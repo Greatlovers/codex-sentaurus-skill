@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.env
+.env.*
+!.env.example
+
+# Local Sentaurus generated indexes and licensed-source digests.
+references/official_*.json
+references/official_*.jsonl
+references/official_*.txt
+
+# Sentaurus project outputs and machine-local artifacts.
+*.tdr
+*.sav
+*.par
+*.plt
+*.log
+*.job
+*.out
+*.err
+*.sta
+backup_codex_*/
+*~
+

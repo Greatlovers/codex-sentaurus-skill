@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sentaurus"
+  short_description: "Operate, run, and monitor Sentaurus with Workbench-first project control."
+  default_prompt: "Use $sentaurus to operate this Sentaurus project through Workbench, preserving nodes, dependencies, statuses, monitoring state, and GUI-visible results."
+
